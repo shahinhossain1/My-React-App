@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "I am Shahin Hossain. I am a Web Developer. Blalalalalalalalalala .Blalalalalalalalalala. Blalalalalalalalalala.",
+      "author": "Shahin",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "body": "I am Mario. I am a Teacher. Blalalalalalalalalala .Blalalalalalalalalala .Blalalalalalalalalala .Blalalalalalalalalala.",
+      "author": "Mario",
+      "id": 2
+    },
+    {
+      "title": "Another new blog",
+      "body": "Hello I am another new blog. Let's fun",
+      "author": "leo",
+      "id": 7
+    },
+    {
+      "title": "Hello",
+      "body": "lorem ipsum domet lorem ipsum domet lorem ipsum domet",
+      "author": "Shahin",
+      "id": 8
+    }
+  ]
+}
